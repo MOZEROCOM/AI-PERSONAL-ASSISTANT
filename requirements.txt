@@ -1,0 +1,6 @@
+openai-whisper
+speechrecognition
+sounddevice
+scipy
+pyttsx3
+numpy==1.23.5
